@@ -45,8 +45,11 @@ The data was subjected to processing and analysis using SQL queries. These queri
 
 **Key Highlights:**
 • Imported the Nashville Housing dataset to the SQL server for processing. 
+
 • Executed SQL queries to cleanse the data, resulting in a structured dataset primed for in-depth analysis and valuable insights. 
+
 • Leveraged SQL queries to systematically explore and analyze the dataset, addressing diverse inquiries such as housing valuation based on distinct factors. 
+
 • Demonstrated adept problem-solving abilities and a sincere enthusiasm for learning by effectively resolving challenges and issues encountered during the project.
 
 **Conclusion:**
