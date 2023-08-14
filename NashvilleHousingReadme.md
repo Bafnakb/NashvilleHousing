@@ -44,6 +44,7 @@ The data was subjected to processing and analysis using SQL queries. These queri
 **7. Land Type vs. Total Value:** Examined the connection between the type of land and the total value of properties.
 
 **Key Highlights:**
+
 • Imported the Nashville Housing dataset to the SQL server for processing. 
 
 • Executed SQL queries to cleanse the data, resulting in a structured dataset primed for in-depth analysis and valuable insights. 
